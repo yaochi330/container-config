@@ -1,0 +1,6 @@
+version: '3'
+services: 
+  recruit:
+    build: .
+    volumes:
+      - /Users/David/工作/博士招生/Workspace/:/home/Workspace/
